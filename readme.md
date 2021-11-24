@@ -6,7 +6,7 @@ nodenv plugin to install yarn and pnpm after a node install.
 
 ```console
 $ mkdir -p "$(nodenv root)/plugins"
-$ git clone https://github.com/jeroenzeelmaekers/nodenv-yarn-pnpm-installer.git "$(nodenv root)/plugins/nodenv-yarn-pnpm-installer"
+$ git clone https://github.com/jeroenzeelmaekers/nodenv-yarn-pnpm-plugin.git "$(nodenv root)/plugins/nodenv-yarn-pnpm-plugin"
 ```
 
 # Inspired from
